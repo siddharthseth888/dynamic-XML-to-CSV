@@ -1,0 +1,109 @@
+{
+    "D1": [
+        "TAG",
+        "VALUE",
+        "CODE",
+        "NAME"
+    ],
+
+    "D10": [
+        "TAG",
+        "CODE",
+        "VALUE"
+    ],
+
+    "D1300": [
+        "TAG",
+        "CODE",
+        "VALUE"
+    ],
+
+    "D2": [
+        "TAG",
+        "CODE",
+        "VALUE",
+        "UNIT",
+        "DATETIME",
+        "AccStatus",
+        "SwitchStatusReason",
+        "FCDAYS",
+        "DAYINDEX",
+        "STARTTIME",
+        "SPTNAME",
+        "SPTSELECTOR",
+        "FCWEEKS",
+        "WEEKNAME",
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN",
+        "FIXFCDAYCOUNT",
+        "FIXFCDAYACTIVATIONDATE",
+        "SPECIALDAYS",
+        "ENTRYINDEX",
+        "DATE",
+        "WEEKNO",
+        "DAYID"
+    ],
+
+    "D3": [
+        "BLOCK_TAG",
+        "TAG",
+        "DATETIME",
+        "MECHANISM",
+        "PARAMCODE",
+        "VALUE",
+        "UNIT",
+        "TOD",
+        "OCCDATE",
+        "CODE",
+        "MECHANISMCODE"
+    ],
+
+    "D4": [
+    "TAG",
+    "INTERVALPERIOD",
+    "DATE",
+    "INTERVAL",
+    "PARAMCODE",
+    "VALUE",
+    "UNIT"
+    ],
+
+    "D5": [
+        "TAG",
+        "CODE",
+        "STATUS",
+        "LOGID",
+        "TIME",
+        "PARAMCODE",
+        "VALUE",
+        "UNIT"
+    ],
+
+    "D6": [
+        "TAG",
+        "DATETIME",
+        "PARAMCODE",
+        "VALUE",
+        "UNIT"
+    ],
+
+    "D8": [
+        "TAG",
+        "VALUE"
+    ],
+
+    "D9": [
+        "TAG",
+        "CODE",
+        "LOGID",
+        "DATETIME",
+        "PARAMCODE",
+        "VALUE",
+        "UNIT"
+    ]
+}
